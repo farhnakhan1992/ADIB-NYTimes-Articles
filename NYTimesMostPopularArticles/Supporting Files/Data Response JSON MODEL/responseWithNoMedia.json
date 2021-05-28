@@ -1,0 +1,38 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/9c2a89a8-91a9-5ff1-ba4d-47509a4ca918",
+      "url": "https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html",
+      "id": 100000007755003,
+      "asset_id": 100000007755003,
+      "source": "New York Times",
+      "published_date": "2021-05-18",
+      "updated": "2021-05-18 21:08:32",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Content Type: Personal Profile;Pop and Rock Music;Books and Literature;Women and Girls;Child Abuse and Neglect;O'Connor, Sinead",
+      "column": null,
+      "byline": "By Amanda Hess",
+      "type": "Article",
+      "title": "Sinead O’Connor Remembers Things Differently",
+      "abstract": "The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Pop and Rock Music",
+        "Books and Literature",
+        "Women and Girls",
+        "Child Abuse and Neglect"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "O'Connor, Sinead"
+      ],
+      "geo_facet": [],
+      "eta_id": 0
+    }
+  ]
+}

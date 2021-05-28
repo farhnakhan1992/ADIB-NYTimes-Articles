@@ -1,0 +1,1250 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/9c2a89a8-91a9-5ff1-ba4d-47509a4ca918",
+      "url": "https://www.nytimes.com/2021/05/18/arts/music/sinead-oconnor-rememberings.html",
+      "id": 100000007755003,
+      "asset_id": 100000007755003,
+      "source": "New York Times",
+      "published_date": "2021-05-18",
+      "updated": "2021-05-18 21:08:32",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Content Type: Personal Profile;Pop and Rock Music;Books and Literature;Women and Girls;Child Abuse and Neglect;O'Connor, Sinead",
+      "column": null,
+      "byline": "By Amanda Hess",
+      "type": "Article",
+      "title": "Sinead O’Connor Remembers Things Differently",
+      "abstract": "The mainstream narrative is that a pop star ripped up a photo of the pope on “Saturday Night Live” and derailed her life. What if the opposite were true?",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Pop and Rock Music",
+        "Books and Literature",
+        "Women and Girls",
+        "Child Abuse and Neglect"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "O'Connor, Sinead"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sinead O&rsquo;Connor&rsquo;s memoir, &ldquo;Rememberings,&rdquo; recasts the story of her career from her perspective.",
+          "copyright": "Ellius Grace for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/arts/23sinead-oconnor2/23sinead-oconnor2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/arts/23sinead-oconnor2/23sinead-oconnor2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/arts/23sinead-oconnor2/23sinead-oconnor2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ffc7b40f-7516-55ce-a355-aa9b1d9e54aa",
+      "url": "https://www.nytimes.com/2021/05/23/us/yearbook-photos-st-johns-girls-altering.html",
+      "id": 100000007776855,
+      "asset_id": 100000007776855,
+      "source": "New York Times",
+      "published_date": "2021-05-23",
+      "updated": "2021-05-25 22:12:11",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Education (K-12);Fashion and Apparel;Photography;Women and Girls;Yearbooks;Education (Secondary);Bartram Trail High School (St Johns County, Fla);St Johns County (Fla)",
+      "column": null,
+      "byline": "By Maria Cramer and Michael Levenson",
+      "type": "Article",
+      "title": "Yearbook Photos of Girls Were Altered to Hide Their Chests",
+      "abstract": "Photos of at least 80 female students at a Florida school had been digitally edited. The school superintendent said there was no “intent to embarrass or shame” them for the clothes they wore.",
+      "des_facet": [
+        "Education (K-12)",
+        "Fashion and Apparel",
+        "Photography",
+        "Women and Girls",
+        "Yearbooks",
+        "Education (Secondary)"
+      ],
+      "org_facet": [
+        "Bartram Trail High School (St Johns County, Fla)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "St Johns County (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Riley O’Keefe said a black bar had been digitally added to her yearbook photo.",
+          "copyright": "Bartram Trail High School Yearbook",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/us/22xp-yearbook-RileyOKeefe/22xp-yearbook-RileyOKeefe-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/us/22xp-yearbook-RileyOKeefe/22xp-yearbook-RileyOKeefe-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/us/22xp-yearbook-RileyOKeefe/22xp-yearbook-RileyOKeefe-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c6eb246f-33ba-5906-bcf5-d598e58b01ad",
+      "url": "https://www.nytimes.com/2021/05/22/health/cdc-heart-teens-vaccination.html",
+      "id": 100000007776916,
+      "asset_id": 100000007776916,
+      "source": "New York Times",
+      "published_date": "2021-05-22",
+      "updated": "2021-05-25 13:52:39",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Heart;Youth;your-feed-healthcare;Centers for Disease Control and Prevention;United States",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "C.D.C. Is Investigating a Heart Problem in a Few Young Vaccine Recipients",
+      "abstract": "The agency is reviewing several dozen reports that teenagers and young adults may have developed myocarditis after vaccination, officials said. But the agency has not determined whether the vaccine caused the condition.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Heart",
+        "Youth",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A teenager in Nashville received a first dose of the Pfizer-BioNTech vaccine earlier this month. ",
+          "copyright": "Brett Carlsen for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/us/22virus-myocarditis-youth/22virus-myocarditis-youth-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/us/22virus-myocarditis-youth/22virus-myocarditis-youth-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/us/22virus-myocarditis-youth/22virus-myocarditis-youth-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/69463fc3-f265-5b65-9024-bbbd25a26d91",
+      "url": "https://www.nytimes.com/2021/05/22/world/global-population-shrinking.html",
+      "id": 100000007759946,
+      "asset_id": 100000007759946,
+      "source": "New York Times",
+      "published_date": "2021-05-22",
+      "updated": "2021-05-24 16:00:03",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Population;Birth Rates;Census;Elderly;East Asia;Europe;China;Far East, South and Southeast Asia and Pacific Areas;United States",
+      "column": null,
+      "byline": "By Damien Cave, Emma Bubola and Choe Sang-Hun",
+      "type": "Article",
+      "title": "Long Slide Looms for World Population, With Sweeping Ramifications",
+      "abstract": "Fewer babies’ cries. More abandoned homes. Toward the middle of this century, as deaths start to exceed births, changes will come that are hard to fathom.",
+      "des_facet": [
+        "Population",
+        "Birth Rates",
+        "Census",
+        "Elderly"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "East Asia",
+        "Europe",
+        "China",
+        "Far East, South and Southeast Asia and Pacific Areas",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A family eating hotpot at a restaurant in Beijing. China’s population is projected to contract sharply this century.",
+          "copyright": "Gilles Sabrié for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/16/world/16global-demographics01/16global-demographics01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/16/world/16global-demographics01/merlin_141466605_1a906d25-0ab6-4b98-93bc-0e3300b91d67-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/16/world/16global-demographics01/merlin_141466605_1a906d25-0ab6-4b98-93bc-0e3300b91d67-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a09a5b55-dd7d-5d2f-843a-0d87a7c45832",
+      "url": "https://www.nytimes.com/2021/05/20/arts/little-island-barry-diller.html",
+      "id": 100000007768350,
+      "asset_id": 100000007768350,
+      "source": "New York Times",
+      "published_date": "2021-05-20",
+      "updated": "2021-05-21 17:00:40",
+      "section": "Arts",
+      "subsection": "",
+      "nytdsection": "arts",
+      "adx_keywords": "Area Planning and Renewal;Parks and Other Recreation Areas;Architecture;Diller, Barry;Heatherwick, Thomas;Hudson River Park Trust;Hudson River Park (Manhattan, NY);Little Island (Manhattan, NY)",
+      "column": null,
+      "byline": "By Michael Kimmelman and Amr Alfiky/The New York Times",
+      "type": "Article",
+      "title": "A New $260 Million Park Floats on the Hudson. It’s a Charmer.",
+      "abstract": "Little Island, developed by Barry Diller, with an amphitheater and dramatic views, opens on Hudson River Park. Opponents battled it for years.",
+      "des_facet": [
+        "Area Planning and Renewal",
+        "Parks and Other Recreation Areas",
+        "Architecture"
+      ],
+      "org_facet": [
+        "Hudson River Park Trust"
+      ],
+      "per_facet": [
+        "Diller, Barry",
+        "Heatherwick, Thomas"
+      ],
+      "geo_facet": [
+        "Hudson River Park (Manhattan, NY)",
+        "Little Island (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amr Alfiky/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/arts/20kimmelman-littleisland1-promo/20kimmelman-littleisland1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/arts/20kimmelman-littleisland1-promo/merlin_187940961_afd097c0-0b29-41d4-b6f1-76ed9a5e2e22-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/arts/20kimmelman-littleisland1-promo/merlin_187940961_afd097c0-0b29-41d4-b6f1-76ed9a5e2e22-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9abe619f-f3fc-5127-a75e-9ed9f3572cb2",
+      "url": "https://www.nytimes.com/2021/05/18/movies/charles-grodin-dead.html",
+      "id": 100000007768633,
+      "asset_id": 100000007768633,
+      "source": "New York Times",
+      "published_date": "2021-05-18",
+      "updated": "2021-05-21 09:50:34",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Deaths (Obituaries);Actors and Actresses;Movies;Television;Grodin, Charles",
+      "column": null,
+      "byline": "By Neil Genzlinger",
+      "type": "Article",
+      "title": "Charles Grodin, Star of ‘Beethoven’ and ‘Heartbreak Kid,’ Dies at 86",
+      "abstract": "A familiar face who was especially adept at deadpan comedy, he also appeared on Broadway in “Same Time, Next Year,” wrote books and had his own talk show.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Actors and Actresses",
+        "Movies",
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Grodin, Charles"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor Charles Grodin with the title dog in the hit 1992 family movie &ldquo;Beethoven.&rdquo; &ldquo;I don&rsquo;t complain,&rdquo; he said, &ldquo;when the editor chooses my worst take because it&rsquo;s the dog&rsquo;s best take.&rdquo;",
+          "copyright": "via Photofest",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/obituaries/18Grodin1/18Grodin1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/obituaries/18Grodin1/18Grodin1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/obituaries/18Grodin1/18Grodin1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a273c2e7-17df-5138-9c3f-3921fb2f3749",
+      "url": "https://www.nytimes.com/2021/05/23/world/asia/china-ultramarathon-deaths.html",
+      "id": 100000007777342,
+      "asset_id": 100000007777342,
+      "source": "New York Times",
+      "published_date": "2021-05-23",
+      "updated": "2021-05-24 12:19:51",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Weather;Accidents and Safety;Rescues;Ultramarathon Running;Deaths (Fatalities);China;Gansu Province (China)",
+      "column": null,
+      "byline": "By Alexandra Stevenson and Cao Li",
+      "type": "Article",
+      "title": "21 Runners Dead After Extreme Weather Hits Chinese Ultramarathon",
+      "abstract": "The 62-mile mountain race in Gansu Province left athletes in shorts and T-shirts facing freezing rain, hail and high winds.",
+      "des_facet": [
+        "Weather",
+        "Accidents and Safety",
+        "Rescues",
+        "Ultramarathon Running",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "China",
+        "Gansu Province (China)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rescuers helped runners in Yellow River Stone Forest Park in the Chinese province of Gansu on Saturday. Rescue efforts continued into Sunday, complicated by a landslide.",
+          "copyright": "Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/world/23china-race/23china-race-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/world/23china-race/23china-race-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/world/23china-race/23china-race-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d694b83e-b35b-500f-8450-7c2499d7f9e6",
+      "url": "https://www.nytimes.com/article/travel-to-europe.html",
+      "id": 100000007768758,
+      "asset_id": 100000007768758,
+      "source": "New York Times",
+      "published_date": "2021-05-19",
+      "updated": "2021-05-26 08:14:36",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Travel and Vacations;Coronavirus (2019-nCoV);Coronavirus Reopenings;Content Type: Service;Croatia;France;Greece;Iceland;Italy;Turkey;Great Britain",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "A Country-by-Country Guide to Reopened Europe",
+      "abstract": "Members of the European Union are welcoming vaccinated travelers, including Americans. But there are still rules and restrictions to abide by. Here’s how to navigate them and what to expect.",
+      "des_facet": [
+        "Travel and Vacations",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Croatia",
+        "France",
+        "Greece",
+        "Iceland",
+        "Italy",
+        "Turkey",
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In Paris, cafes like the tourist-favorite de Flore, have reopened for outdoor dining. ",
+          "copyright": "Joann Pai for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/travel/19Europe-reopening2/merlin_187976703_f4957e2f-8ff4-47e0-8d9a-5bcc6cad3d97-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/travel/19Europe-reopening2/merlin_187976703_f4957e2f-8ff4-47e0-8d9a-5bcc6cad3d97-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/travel/19Europe-reopening2/merlin_187976703_f4957e2f-8ff4-47e0-8d9a-5bcc6cad3d97-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6e09248e-0914-572d-9b9f-a2710855cf6d",
+      "url": "https://www.nytimes.com/2021/05/19/business/media/nikole-hannah-jones-unc.html",
+      "id": 100000007771831,
+      "asset_id": 100000007771831,
+      "source": "New York Times",
+      "published_date": "2021-05-19",
+      "updated": "2021-05-21 12:00:50",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Colleges and Universities;Tenure;Journalism Schools;Writing and Writers;Race and Ethnicity;News and News Media;Slavery (Historical);Hannah-Jones,  Nikole;University of North Carolina;New York Times",
+      "column": null,
+      "byline": "By Katie Robertson",
+      "type": "Article",
+      "title": "Nikole Hannah-Jones Denied Tenure at University of North Carolina",
+      "abstract": "Her hiring brought a backlash from conservatives concerned about her involvement in The Times Magazine’s 1619 Project, which examined the legacy of slavery in America.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Tenure",
+        "Journalism Schools",
+        "Writing and Writers",
+        "Race and Ethnicity",
+        "News and News Media",
+        "Slavery (Historical)"
+      ],
+      "org_facet": [
+        "University of North Carolina",
+        "New York Times"
+      ],
+      "per_facet": [
+        "Hannah-Jones,  Nikole"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nikole Hannah-Jones will start her position teaching journalism at the University of North Carolina in July.",
+          "copyright": "James Estrin/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/business/19HannahJones-01/19HannahJones-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/business/19HannahJones-01/19HannahJones-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/business/19HannahJones-01/19HannahJones-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9909c5ed-00a0-5cae-9373-34e8765b9c2d",
+      "url": "https://www.nytimes.com/2021/05/16/business/bill-melinda-gates-divorce-epstein.html",
+      "id": 100000007763932,
+      "asset_id": 100000007763932,
+      "source": "New York Times",
+      "published_date": "2021-05-16",
+      "updated": "2021-05-17 12:57:39",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Sexual Harassment;Divorce, Separations and Annulments;Workplace Hazards and Violations;Computers and the Internet;Gates, Bill;Gates, Melinda;Epstein, Jeffrey E (1953- );Larson, Michael (1959- );Gates, Bill and Melinda, Foundation;Microsoft Corp",
+      "column": null,
+      "byline": "By Emily Flitter and Matthew Goldstein",
+      "type": "Article",
+      "title": "Long Before Divorce, Bill Gates Had Reputation for Questionable Behavior",
+      "abstract": "Melinda French Gates voiced concerns about her husband’s relationship with Jeffrey Epstein and a harassment claim against his money manager. He also had an affair with an employee.",
+      "des_facet": [
+        "Sexual Harassment",
+        "Divorce, Separations and Annulments",
+        "Workplace Hazards and Violations",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "Gates, Bill and Melinda, Foundation",
+        "Microsoft Corp"
+      ],
+      "per_facet": [
+        "Gates, Bill",
+        "Gates, Melinda",
+        "Epstein, Jeffrey E (1953- )",
+        "Larson, Michael (1959- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A spokeswoman for Bill Gates said claims that he mistreated employees were false.",
+          "copyright": "Elaine Thompson/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/17/business/14altGates-print/14Gates--top-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/17/business/14altGates-print/14Gates--top-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/17/business/14altGates-print/14Gates--top-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/23de7250-f6ad-5e1f-aced-9d3e01c5b94c",
+      "url": "https://www.nytimes.com/2021/05/15/world/middleeast/israel-palestinian-gaza-war.html",
+      "id": 100000007763405,
+      "asset_id": 100000007763405,
+      "source": "New York Times",
+      "published_date": "2021-05-15",
+      "updated": "2021-05-25 10:57:33",
+      "section": "World",
+      "subsection": "Middle East",
+      "nytdsection": "world",
+      "adx_keywords": "Palestinians;Defense and Military Forces;War and Armed Conflicts;Politics and Government;Mosques;Arabs;Jews and Judaism;Muslims and Islam;Ramadan;Netanyahu, Benjamin;Hamas;Al Aqsa Mosque (Jerusalem);Israel",
+      "column": null,
+      "byline": "By Patrick Kingsley",
+      "type": "Article",
+      "title": "After Years of Quiet, Israeli-Palestinian Conflict Exploded. Why Now?",
+      "abstract": "A little-noticed police action in Jerusalem last month was one of several incidents that led to the current crisis.",
+      "des_facet": [
+        "Palestinians",
+        "Defense and Military Forces",
+        "War and Armed Conflicts",
+        "Politics and Government",
+        "Mosques",
+        "Arabs",
+        "Jews and Judaism",
+        "Muslims and Islam",
+        "Ramadan"
+      ],
+      "org_facet": [
+        "Hamas",
+        "Al Aqsa Mosque (Jerusalem)"
+      ],
+      "per_facet": [
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Israel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Aqsa Mosque compound in Jerusalem last month, about a week before the start of Ramadan. ",
+          "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/15/world/15mideast-reconstruct/15mideast-reconstruct-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/15/world/15mideast-reconstruct/15mideast-reconstruct-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/15/world/15mideast-reconstruct/15mideast-reconstruct-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8fd3cf2c-4a8a-5c9e-8cf8-091507eb1191",
+      "url": "https://www.nytimes.com/2021/05/21/upshot/covid-children-advice-experts.html",
+      "id": 100000007773342,
+      "asset_id": 100000007773342,
+      "source": "New York Times",
+      "published_date": "2021-05-21",
+      "updated": "2021-05-22 16:28:23",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Children and Childhood;Content Type: Service;Vaccination and Immunization;Polls and Public Opinion",
+      "column": null,
+      "byline": "By Claire Cain Miller, Margot Sanger-Katz and Kevin Quealy",
+      "type": "Article",
+      "title": "What Activities Can Unvaccinated Children Do? Advice From 828 Experts.",
+      "abstract": "This phase of the pandemic, when adults can be vaccinated but young children cannot, is confusing for many families.",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "Children and Childhood",
+        "Content Type: Service",
+        "Vaccination and Immunization",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children playing at the U.S. National Arboretum in Washington last month. Public health experts say being outdoors is a safer way for children to socialize. ",
+          "copyright": "Amr Alfiky/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/upshot/21up-virus-epi-kids/21up-virus-epi-kids-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/upshot/21up-virus-epi-kids/merlin_186648198_c5f0673d-c8c9-4b99-922d-e2574e13ee01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/22/upshot/21up-virus-epi-kids/merlin_186648198_c5f0673d-c8c9-4b99-922d-e2574e13ee01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2b44271a-a487-5794-8c33-9a84f466ea23",
+      "url": "https://www.nytimes.com/2021/05/24/sports/olympics/simone-biles-yurchenko-double-pike.html",
+      "id": 100000007777569,
+      "asset_id": 100000007777569,
+      "source": "New York Times",
+      "published_date": "2021-05-24",
+      "updated": "2021-05-26 08:08:12",
+      "section": "Sports",
+      "subsection": "Olympics",
+      "nytdsection": "sports",
+      "adx_keywords": "Gymnastics;Olympic Games (2020);Biles, Simone;USA Gymnastics",
+      "column": null,
+      "byline": "By Juliet Macur",
+      "type": "Article",
+      "title": "Simone Biles Dials Up the Difficulty, ‘Because I Can’",
+      "abstract": "The Olympic gold medalist’s new vault is so dangerous that gymnastics, for now, limits the scoring rewards for trying it. Biles says that’s unfair.",
+      "des_facet": [
+        "Gymnastics",
+        "Olympic Games (2020)"
+      ],
+      "org_facet": [
+        "USA Gymnastics"
+      ],
+      "per_facet": [
+        "Biles, Simone"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gymnastics’ scoring system may not fully value the vault Simone Biles pulled off Saturday.",
+          "copyright": "Emilee Chinn/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/24/sports/24biles2/24biles2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/24/sports/24biles2/24biles2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/24/sports/24biles2/24biles2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6e674129-5627-53ef-aa9d-ba76cf697b1e",
+      "url": "https://www.nytimes.com/2021/05/19/us/teens-massachusetts-elections.html",
+      "id": 100000007734748,
+      "asset_id": 100000007734748,
+      "source": "New York Times",
+      "published_date": "2021-05-19",
+      "updated": "2021-05-20 10:16:36",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Elections, Senate;Elections, Mayors;Youth;Volunteers and Community Service;Social Media;Politics and Government;United States Politics and Government;Markey, Edward J;Kennedy, Joseph P III;Walsh, Calla;Democratic Party;Massachusetts",
+      "column": null,
+      "byline": "By Ellen Barry",
+      "type": "Article",
+      "title": "An ‘Army of 16-Year-Olds’ Takes On the Democrats",
+      "abstract": "Young progressives are an unpredictable new factor in Massachusetts elections. They’re ardent, and organized, and they don’t take orders.",
+      "des_facet": [
+        "Elections, Senate",
+        "Elections, Mayors",
+        "Youth",
+        "Volunteers and Community Service",
+        "Social Media",
+        "Politics and Government",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Markey, Edward J",
+        "Kennedy, Joseph P III",
+        "Walsh, Calla"
+      ],
+      "geo_facet": [
+        "Massachusetts"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lillian Gibson, left, and Calla Walsh canvassing for a mayoral candidate, Michelle Wu, in Boston.",
+          "copyright": "Philip Keith for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/us/19teenpols-1/19teenpols-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/us/19teenpols-1/19teenpols-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/19/us/19teenpols-1/19teenpols-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9087696c-37ff-5cb2-bf1e-4cd3731b7515",
+      "url": "https://www.nytimes.com/live/2021/05/19/world/covid-vaccine-coronavirus-mask/eu-vaccinated-visitors-travel",
+      "id": 100000007770333,
+      "asset_id": 100000007770333,
+      "source": "New York Times",
+      "published_date": "2021-05-19",
+      "updated": "2021-05-20 16:30:37",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "internal-essential",
+      "column": null,
+      "byline": "By Matina Stevis-Gridneff and Monika Pronczuk",
+      "type": "Article",
+      "title": "The E.U. agrees to reopen to vaccinated visitors and those from Covid-safe countries.",
+      "abstract": "The bloc’s new rules, which are coming just in time for the summer tourism season, will open the door for Americans.",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists in Athens this month. New European rules for travelers could go into effect as early as next week.",
+          "copyright": "Louisa Gouliamaki/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/world/19virus-briefing-EU/19virus-briefing-EU-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/world/19virus-briefing-EU/19virus-briefing-EU-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/world/19virus-briefing-EU/19virus-briefing-EU-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/01e2f6b7-79be-52bc-b6fe-c46ebf8e9d72",
+      "url": "https://www.nytimes.com/2021/05/20/briefing/labor-shortages-covid-wages.html",
+      "id": 100000007772536,
+      "asset_id": 100000007772536,
+      "source": "New York Times",
+      "published_date": "2021-05-20",
+      "updated": "2021-05-20 20:26:06",
+      "section": "Briefing",
+      "subsection": "",
+      "nytdsection": "briefing",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By David Leonhardt",
+      "type": "Article",
+      "title": "The Myth of Labor Shortages",
+      "abstract": "Is the U.S. suffering from a labor shortage? If so, capitalism has an answer.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Pennsylvania McDonald’s is offering a hiring bonus.",
+          "copyright": "Keith Srakocic/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/lens/20ambriefing-promo/20ambriefing-hiring-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/lens/20ambriefing-promo/20ambriefing-hiring-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/lens/20ambriefing-promo/20ambriefing-hiring-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1e551828-e1c9-52cd-bc9b-3254ee7af34e",
+      "url": "https://www.nytimes.com/2021/05/23/world/europe/ryanair-belarus.html",
+      "id": 100000007777470,
+      "asset_id": 100000007777470,
+      "source": "New York Times",
+      "published_date": "2021-05-23",
+      "updated": "2021-05-25 12:42:02",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Airlines and Airplanes;News and News Media;Politics and Government;Freedom of the Press;Political Prisoners;International Relations;Lukashenko, Aleksandr G;Protasevich, Roman;Ryanair Holdings PLC;Telegram LLC;Belarus;Minsk (Belarus);Greece;Lithuania",
+      "column": null,
+      "byline": "By Anton Troianovski and Ivan Nechepurenko",
+      "type": "Article",
+      "title": "Belarus Forces Down Plane to Seize Dissident; Europe Sees ‘State Hijacking’",
+      "abstract": "The dissident, Roman Protasevich, co-founded a Telegram channel that is a popular opposition outlet in Belarus. The plane was flying from Athens to Lithuania when it was forced down.",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "News and News Media",
+        "Politics and Government",
+        "Freedom of the Press",
+        "Political Prisoners",
+        "International Relations"
+      ],
+      "org_facet": [
+        "Ryanair Holdings PLC",
+        "Telegram LLC"
+      ],
+      "per_facet": [
+        "Lukashenko, Aleksandr G",
+        "Protasevich, Roman"
+      ],
+      "geo_facet": [
+        "Belarus",
+        "Minsk (Belarus)",
+        "Greece",
+        "Lithuania"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Belarusian dog handler checking luggage from a Ryanair flight at Minsk International Airport on Sunday.",
+          "copyright": "Onliner.by/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/world/23BELARUS-SUB/23BELARUS-SUB-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/world/23BELARUS-SUB/23BELARUS-SUB-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/world/23BELARUS-SUB/23BELARUS-SUB-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/83bb59c6-4126-5649-9fdf-f6288bca6894",
+      "url": "https://www.nytimes.com/2021/05/18/us/politics/race-inclusion-wasau-wisconsin.html",
+      "id": 100000007764100,
+      "asset_id": 100000007764100,
+      "source": "New York Times",
+      "published_date": "2021-05-18",
+      "updated": "2021-05-19 11:34:47",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black People;Whites;Hmong Tribe;Black Lives Matter Movement;Race and Ethnicity;Minorities;Discrimination;Local Government;Trump, Donald J;Wausau (Wis);Marathon County (Wis)",
+      "column": null,
+      "byline": "By Reid J. Epstein",
+      "type": "Article",
+      "title": "A ‘Community for All’? Not So Fast, This Wisconsin County Says.",
+      "abstract": "In Wausau, Wis., the county board has debated a resolution aimed at embracing inclusion for nearly a year, with no agreement. Racial tensions that had simmered beneath the surface are now roiling the community.",
+      "des_facet": [
+        "Black People",
+        "Whites",
+        "Hmong Tribe",
+        "Black Lives Matter Movement",
+        "Race and Ethnicity",
+        "Minorities",
+        "Discrimination",
+        "Local Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Wausau (Wis)",
+        "Marathon County (Wis)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Community members prepared to speak in opposition to the Community for All resolution at the Marathon County Courthouse in Wausau, Wis., last week.",
+          "copyright": "Lauren Justice for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/17/us/politics/00wausau-top/00wausau-top-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/17/us/politics/00wausau-top/merlin_187890300_45c15261-489b-4651-a6bb-d25b2bfef5c6-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/17/us/politics/00wausau-top/merlin_187890300_45c15261-489b-4651-a6bb-d25b2bfef5c6-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c176582a-248e-5c0d-992f-ddfe55ef2274",
+      "url": "https://www.nytimes.com/2021/05/22/world/australia/who-was-somerton-man.html",
+      "id": 100000007772605,
+      "asset_id": 100000007772605,
+      "source": "New York Times",
+      "published_date": "2021-05-22",
+      "updated": "2021-05-23 00:47:49",
+      "section": "World",
+      "subsection": "Australia",
+      "nytdsection": "world",
+      "adx_keywords": "Forensic Science;DNA (Deoxyribonucleic Acid);Adelaide (Australia);Australia",
+      "column": null,
+      "byline": "By Alan Yuhas",
+      "type": "Article",
+      "title": "Australia Exhumes the Somerton Man, and His 70-Year Mystery",
+      "abstract": "This week the police disinterred a body, found on a beach in 1948, that has puzzled investigators for decades. “There’s lots of twists and turns in this case, and every turn is pretty weird,” one said.",
+      "des_facet": [
+        "Forensic Science",
+        "DNA (Deoxyribonucleic Acid)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Adelaide (Australia)",
+        "Australia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pallbearers took away the exhumed remains of the so-called Somerton man on Wednesday.",
+          "copyright": "Mark Brake/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/multimedia/22xp-somertonman1-print/22xp-somertonman-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/multimedia/22xp-somertonman1-print/22xp-somertonman-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/23/multimedia/22xp-somertonman1-print/22xp-somertonman-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b97c3ade-c8b2-569e-89f2-f15b62d8d786",
+      "url": "https://www.nytimes.com/2021/05/20/nyregion/lovely-warren-rochester-husband-arrested.html",
+      "id": 100000007773536,
+      "asset_id": 100000007773536,
+      "source": "New York Times",
+      "published_date": "2021-05-20",
+      "updated": "2021-05-21 11:48:33",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Elections, Mayors;Drug Abuse and Traffic;Cocaine and Crack Cocaine;Warren, Lovely A;Granison, Timothy;Rochester (NY)",
+      "column": null,
+      "byline": "By Sarah Maslin Nir and Troy Closson",
+      "type": "Article",
+      "title": "Mayor Accused of Fraud Has New Problem: Drug Charges for Her Husband",
+      "abstract": "Timothy Granison’s arrest was the latest crisis for the re-election campaign of Mayor Lovely Warren of Rochester, N.Y., who suggested the investigation was part of a conspiracy against her.",
+      "des_facet": [
+        "Elections, Mayors",
+        "Drug Abuse and Traffic",
+        "Cocaine and Crack Cocaine"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Warren, Lovely A",
+        "Granison, Timothy"
+      ],
+      "geo_facet": [
+        "Rochester (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "State police conducted a search of Mayor Lovely Warren’s house in Rochester on Wednesday. ",
+          "copyright": "Jamie Germano/Democrat & Chronicle, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/nyregion/20nyrochester1/20nyrochester1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/nyregion/20nyrochester1/20nyrochester1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/05/20/nyregion/20nyrochester1/20nyrochester1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
