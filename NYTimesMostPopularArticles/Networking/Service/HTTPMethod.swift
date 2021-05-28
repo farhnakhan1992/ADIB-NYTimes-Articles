@@ -1,8 +1,8 @@
 //
 //  HTTPMethod.swift
-//  SwanOpenWeather
+//  NYTimesMostPopularArticles
 //
-//  Created by Farhan Khan on 25/05/2021.
+//  Created by Farhan Khan on 26/05/2021.
 //
 
 import Foundation

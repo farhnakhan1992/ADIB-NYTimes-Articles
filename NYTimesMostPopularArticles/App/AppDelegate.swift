@@ -11,10 +11,18 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    var reachability = Reachability()
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        // MARK: - Root Navigation
+        if let vc = UIStoryboard.Articles.get(NYTimesArticlesListViewController.self)
+        {
+            let presenter = NYTimesArticlesListViewPresenter(view: vc)
+            vc.presenter = presenter
+            window = UIWindow()
+            window?.rootViewController = UINavigationController(rootViewController: vc)
+            window?.makeKeyAndVisible()
+        }
         return true
     }
 

@@ -1,8 +1,8 @@
 //
 //  NetworkEndPoints.swift
-//  SwanOpenWeather
+//  NYTimesMostPopularArticles
 //
-//  Created by Farhan Khan on 25/05/2021.
+//  Created by Farhan Khan on 26/05/2021.
 //
 
 
@@ -16,20 +16,20 @@ enum NetworkEnvironment {
     case staging
 }
 
-public enum ForcastApi {
+public enum NYTApi {
 
-    case fiveDaysForcast(lat: Double, lng: Double)
-    case currentLocationForcast(lat: Double, lng: Double)
+    case mostPopularArticles
+ 
     
 }
 
-extension ForcastApi: EndPointType {
+extension NYTApi: EndPointType {
     
     var environmentBaseURL : String {
         switch NetworkManager.environment {
-        case .production: return "https://api.openweathermap.org/data/2.5"
-        case .qa: return "https://api.openweathermap.org/data/2.5"
-        case .staging: return "https://api.openweathermap.org/data/2.5"
+        case .production: return "https://api.nytimes.com/svc/mostpopular/v2"
+        case .qa: return "https://api.nytimes.com/svc/mostpopular/v2"
+        case .staging: return "https://api.nytimes.com/svc/mostpopular/v2"
         }
     }
     
@@ -40,10 +40,8 @@ extension ForcastApi: EndPointType {
     
     var path: String {
         switch self {
-        case .fiveDaysForcast(_, _):
-        return "/forecast"
-        case .currentLocationForcast(lat: _, lng: _):
-            return "/weather"
+        case .mostPopularArticles:
+        return "/mostviewed/all-sections/7.json"
         }
     }
     
@@ -53,18 +51,10 @@ extension ForcastApi: EndPointType {
     
     var task: HTTPTask {
         switch self {
-        case .fiveDaysForcast(let lat, let lng):
+        case .mostPopularArticles:
             return .requestParameters(bodyParameters: nil,
                                       bodyEncoding: .urlEncoding,
-                                      urlParameters: ["lat":lat,
-                                                      "lon":lng,
-                                                      "appid":NetworkManager.OpenForcastKey])
-        case .currentLocationForcast(let lat, let lng):
-        return .requestParameters(bodyParameters: nil,
-                                  bodyEncoding: .urlEncoding,
-                                  urlParameters: ["lat":lat,
-                                                  "lon":lng,
-                                                  "appid":NetworkManager.OpenForcastKey])
+                                      urlParameters: ["api-key":NetworkManager.NYTimesAPIKey])
         default:
             return .request
         }

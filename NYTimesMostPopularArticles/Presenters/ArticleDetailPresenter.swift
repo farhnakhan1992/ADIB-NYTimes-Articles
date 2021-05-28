@@ -6,3 +6,26 @@
 //
 
 import Foundation
+
+
+protocol ArticleDetailViewPresenter: AnyObject {
+    init(view: ArticleDetailView)
+    func viewDidLoad()
+}
+
+class ArticleDetailPresenter: ArticleDetailViewPresenter {
+    
+    // MARK: - Properties
+    weak var view: ArticleDetailView?
+    
+    // MARK: - Protocol methods
+    required init(view: ArticleDetailView) {
+        self.view = view
+    }
+    
+    func viewDidLoad() {
+        
+    }
+    
+}
+
